@@ -37,7 +37,7 @@ else {
 <body>
 
     	<?php
-		print("Geraden getal: " . $_SESSION["getal"] . ("<br>"));
+		print("Willekeurig getal: " . $_SESSION["getal"] . ("<br>"));
 		print ("Aantal bezoeken: " . $_SESSION["bezoeken"]);
 		?>
         
