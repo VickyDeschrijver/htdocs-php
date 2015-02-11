@@ -1,5 +1,5 @@
 <?php
-require_once("module.class.php");
+require_once("film.class.php");
 class filmLijst {
 	private $dbConn;
 	private $dbUsername;
